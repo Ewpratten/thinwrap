@@ -1,0 +1,11 @@
+[package]
+name = "thinwrap"
+version = "1.0.0"
+authors = ["Evan Pratten <ewpratten@gmail.com>"]
+edition = "2018"
+readme = "README.md"
+license-file = "LICENSE"
+description = "Deref struct macros for Rust"
+git = "https://github.com/Ewpratten/thinwrap"
+
+[dependencies]
